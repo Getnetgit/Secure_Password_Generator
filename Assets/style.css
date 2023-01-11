@@ -13,6 +13,8 @@ body,
 }
 
 body {
+  border-style: solid;
+  border-color: aquamarine;
   font-family: sans-serif;
   background-color: #f9fbfd;
 }
