@@ -12,7 +12,7 @@ N/A
 ## Usage
 Whenp page is loaded a read onnly text area where generated password will be displayed and a "Generate Passwored" button. When button is cleicked a prompt for passoword length between 8 and 128 will be displayed . Once a valid password length is entered then a serie of conformation windows will be displayed asking weather to include numbers , lowercase , Uppercase and special character. Once at least one charactor type is selected then password will be generated and displayed in the text area. Here is the link to published page : https://getnetgit.github.io/Secure_Password_Generator/
 
-[This demo vedio](asset/Images/Usage_Demo_Vedio.webm) shows the web application's appearance and functionality:
+[This demo vedio](Assets/vedio/Password%20Generator%20Demo.webm) shows the web application's appearance and functionality:
 
 ## Credits
 I used resorces in UW bootcamp modules  and [https://www.w3schools.com/] was also helpful to do some research for this project.
