@@ -2,22 +2,20 @@
 //-----------------------------New code starts here-----------------------------------------
 const upperCase="ABCDEFGHIJKLMNOPQRSTUV";
 const lowerCase="abcdefghijklmnopqrstuvwxyz";
-const specialChar="!#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
+const specialChar="!#$%&'()*+,-./:;<=>?@[\]^_`{|}~\"";
 const numbers="0123456789";
 //define and initialize password length 
 let passwordLength=8;
 
 // This function returns randume element from a given string
-let strElement="";
-function  getRandumStrElement(strElement){
-    return strElement[Math.floor(Math.random()*strElement.length)];
+function  getRandumStrElement(string){
+    return string[Math.floor(Math.random()*string.length)];
 }
 
 //This function will randumly reorder elements in a given string.
-let stringVar=""; 
-  function reorderStrElements(stringVar){
+function reorderStrElements(string){
   
-  let tempArray=stringVar.split("");
+  let tempArray=string.split("");
   for (let i = 0; i < tempArray.length; i++) {
     let tempChar="";
     let j=Math.floor(Math.random()*tempArray.length);
@@ -30,8 +28,8 @@ let stringVar="";
       i=i-1;
     }
   }
-  stringVar=tempArray.join("");
-  return stringVar;
+  string=tempArray.join("");
+  return string;
 }
 
 
