@@ -14,22 +14,13 @@ Whenp page is loaded a read onnly text area where generated password will be dis
 
 [This demo vedio](asset/Images/Usage_Demo_Vedio.webm) shows the web application's appearance and functionality:
 
-
-Portfolio picture for computer screan
-![Portfolio picture for computer screan](asset/Images/Portfolio_Computer_Display.png)
-
-Portfolio picture for mobile screan
-
-![Portfolio picture for mobile screan](asset/Images/Portfolio_For_Mobile_Display.png)
-
-
 ## Credits
 I used resorces in UW bootcamp modules  and [https://www.w3schools.com/] was also helpful to do some research for this project.
 
 ## License
 MIT License
 
-Copyright (c) 2022 GET
+Copyright (c) 2023 GET
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,5 +39,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
